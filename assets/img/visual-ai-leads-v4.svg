@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Flujo de calificación de leads</title>
+  <desc id="desc">Contactos ingresan a un proceso de calificación y terminan en una reunión confirmada.</desc>
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#5b4a2c" flood-opacity=".10"/>
+    </filter>
+    <linearGradient id="active" x1="0" x2="1">
+      <stop stop-color="#f5b800"/><stop offset="1" stop-color="#ffd765"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" rx="54" fill="#fbf7ee"/>
+  <rect x="56" y="56" width="1088" height="688" rx="38" fill="#fffdf8" stroke="#e8deca" stroke-width="2"/>
+  <g fill="#d9cdb8">
+    <circle cx="96" cy="96" r="8"/><circle cx="122" cy="96" r="8"/><circle cx="148" cy="96" r="8"/>
+  </g>
+  <g filter="url(#shadow)">
+    <g transform="translate(105 205)">
+      <rect width="250" height="112" rx="24" fill="#fff" stroke="#e8deca"/>
+      <circle cx="58" cy="56" r="25" fill="#f1eadf"/>
+      <circle cx="58" cy="49" r="9" fill="#25231f"/><path d="M39 78c3-14 11-21 19-21s16 7 19 21" fill="#25231f"/>
+      <rect x="104" y="37" width="102" height="11" rx="6" fill="#393630"/><rect x="104" y="61" width="72" height="9" rx="5" fill="#c9c0b0"/>
+    </g>
+    <g transform="translate(105 344)">
+      <rect width="250" height="112" rx="24" fill="#fff" stroke="#e8deca"/>
+      <circle cx="58" cy="56" r="25" fill="#f1eadf"/>
+      <circle cx="58" cy="49" r="9" fill="#25231f"/><path d="M39 78c3-14 11-21 19-21s16 7 19 21" fill="#25231f"/>
+      <rect x="104" y="37" width="88" height="11" rx="6" fill="#393630"/><rect x="104" y="61" width="112" height="9" rx="5" fill="#c9c0b0"/>
+    </g>
+    <g transform="translate(105 483)">
+      <rect width="250" height="112" rx="24" fill="#fff" stroke="#e8deca"/>
+      <circle cx="58" cy="56" r="25" fill="#f1eadf"/>
+      <circle cx="58" cy="49" r="9" fill="#25231f"/><path d="M39 78c3-14 11-21 19-21s16 7 19 21" fill="#25231f"/>
+      <rect x="104" y="37" width="116" height="11" rx="6" fill="#393630"/><rect x="104" y="61" width="82" height="9" rx="5" fill="#c9c0b0"/>
+    </g>
+  </g>
+  <g fill="none" stroke="#61584a" stroke-width="5" stroke-linecap="round">
+    <path d="M355 261h66c35 0 35 139 72 139"/><path d="M355 400h138"/><path d="M355 539h66c35 0 35-139 72-139"/>
+  </g>
+  <path d="m477 383 20 17-20 17" fill="none" stroke="#61584a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g filter="url(#shadow)" transform="translate(510 226)">
+    <rect width="238" height="348" rx="30" fill="#fff" stroke="#e8deca"/>
+    <circle cx="119" cy="76" r="44" fill="#171717"/>
+    <path d="m99 76 14 14 28-31" fill="none" stroke="#f5b800" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M62 162h114l-20 48H82zM82 230h74l-17 42h-40zM99 292h40l-10 28h-20z" fill="#e8deca"/>
+    <path d="M99 292h40l-10 28h-20z" fill="#f5b800"/>
+  </g>
+  <path d="M748 400h99" fill="none" stroke="url(#active)" stroke-width="9" stroke-linecap="round"/>
+  <path d="m828 381 22 19-22 19" fill="none" stroke="#f5b800" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <g filter="url(#shadow)" transform="translate(867 250)">
+    <rect width="236" height="300" rx="30" fill="#fff" stroke="#e8deca"/>
+    <rect width="236" height="72" rx="30" fill="url(#active)"/><path d="M0 42h236v30H0z" fill="url(#active)"/>
+    <rect x="48" y="110" width="140" height="126" rx="18" fill="#fbf7ee" stroke="#61584a" stroke-width="4"/>
+    <path d="M48 148h140M82 96v31M154 96v31" fill="none" stroke="#61584a" stroke-width="5" stroke-linecap="round"/>
+    <g fill="#ddd3c2"><rect x="70" y="169" width="24" height="22" rx="5"/><rect x="106" y="169" width="24" height="22" rx="5"/><rect x="142" y="169" width="24" height="22" rx="5"/><rect x="70" y="203" width="24" height="22" rx="5"/><rect x="106" y="203" width="24" height="22" rx="5"/></g>
+    <rect x="142" y="203" width="24" height="22" rx="5" fill="#f5b800"/>
+  </g>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Analítica de conversión</title>
+  <desc id="desc">Embudo de conversión y gráfico ascendente de rendimiento.</desc>
+  <defs><filter id="s" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#5b4a2c" flood-opacity=".10"/></filter><linearGradient id="g" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#f5b800" stop-opacity=".24"/><stop offset="1" stop-color="#f5b800" stop-opacity="0"/></linearGradient></defs>
+  <rect width="1200" height="800" rx="54" fill="#fbf7ee"/><rect x="56" y="56" width="1088" height="688" rx="38" fill="#fffdf8" stroke="#e8deca" stroke-width="2"/>
+  <g fill="#d9cdb8"><circle cx="96" cy="96" r="8"/><circle cx="122" cy="96" r="8"/><circle cx="148" cy="96" r="8"/></g>
+  <g filter="url(#s)" transform="translate(108 186)">
+    <rect width="332" height="428" rx="32" fill="#fff" stroke="#e8deca"/>
+    <path d="M62 76h208l-37 76H99zM99 174h134l-30 68h-74zM129 264h74l-20 60h-34z" fill="#e5dccd"/>
+    <path d="M129 264h74l-20 60h-34z" fill="#f5b800"/>
+    <circle cx="166" cy="362" r="28" fill="#171717"/><path d="m151 362 10 10 21-24" fill="none" stroke="#f5b800" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g filter="url(#s)" transform="translate(474 186)">
+    <rect width="618" height="428" rx="32" fill="#fff" stroke="#e8deca"/>
+    <path d="M64 354H560M64 86v268" stroke="#e5dccd" stroke-width="4" stroke-linecap="round"/>
+    <g fill="#eee7dc"><rect x="104" y="270" width="60" height="84" rx="12"/><rect x="204" y="232" width="60" height="122" rx="12"/><rect x="304" y="184" width="60" height="170" rx="12"/><rect x="404" y="126" width="60" height="228" rx="12"/></g>
+    <path d="M92 302 196 255 294 226 392 161 514 103V354H92z" fill="url(#g)"/>
+    <path d="m92 302 104-47 98-29 98-65 122-58" fill="none" stroke="#25231f" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <g fill="#fff" stroke="#25231f" stroke-width="6"><circle cx="92" cy="302" r="11"/><circle cx="196" cy="255" r="11"/><circle cx="294" cy="226" r="11"/><circle cx="392" cy="161" r="11"/></g>
+    <circle cx="514" cy="103" r="18" fill="#f5b800" stroke="#25231f" stroke-width="6"/>
+    <path d="M532 70l22-22M542 97h31M524 56V25" stroke="#f5b800" stroke-width="8" stroke-linecap="round"/>
+  </g>
+</svg>

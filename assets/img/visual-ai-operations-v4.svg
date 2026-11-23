@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Automatización de operaciones</title>
+  <desc id="desc">Documentos, datos, aprobaciones y notificaciones conectados en un flujo automático.</desc>
+  <defs><filter id="s" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#5b4a2c" flood-opacity=".10"/></filter></defs>
+  <rect width="1200" height="800" rx="54" fill="#fbf7ee"/><rect x="56" y="56" width="1088" height="688" rx="38" fill="#fffdf8" stroke="#e8deca" stroke-width="2"/>
+  <g fill="#d9cdb8"><circle cx="96" cy="96" r="8"/><circle cx="122" cy="96" r="8"/><circle cx="148" cy="96" r="8"/></g>
+  <path d="M180 402h838" stroke="#ded4c3" stroke-width="8" stroke-linecap="round"/><path d="M180 402h640" stroke="#f5b800" stroke-width="8" stroke-linecap="round"/>
+  <g filter="url(#s)">
+    <g transform="translate(112 278)"><rect width="202" height="244" rx="30" fill="#fff" stroke="#e8deca"/><path d="M68 58h52l30 30v96H68z" fill="#f1eadf" stroke="#61584a" stroke-width="5" stroke-linejoin="round"/><path d="M120 58v30h30M86 119h47M86 143h47M86 167h34" stroke="#61584a" stroke-width="5" stroke-linecap="round"/></g>
+    <g transform="translate(331 278)"><rect width="202" height="244" rx="30" fill="#fff" stroke="#e8deca"/><ellipse cx="101" cy="78" rx="52" ry="24" fill="#f1eadf" stroke="#61584a" stroke-width="5"/><path d="M49 78v94c0 13 23 24 52 24s52-11 52-24V78M49 125c0 13 23 24 52 24s52-11 52-24" fill="none" stroke="#61584a" stroke-width="5"/></g>
+    <g transform="translate(550 278)"><rect width="202" height="244" rx="30" fill="#fff" stroke="#e8deca"/><circle cx="101" cy="122" r="57" fill="#171717"/><path d="m72 123 20 20 39-45" fill="none" stroke="#f5b800" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="translate(769 278)"><rect width="202" height="244" rx="30" fill="#fff" stroke="#e8deca"/><path d="M101 62c-29 0-46 22-46 52v30l-17 22h126l-17-22v-30c0-30-17-52-46-52z" fill="#f1eadf" stroke="#61584a" stroke-width="5" stroke-linejoin="round"/><path d="M84 181c5 14 28 14 34 0" fill="none" stroke="#61584a" stroke-width="5" stroke-linecap="round"/></g>
+    <g transform="translate(988 278)"><rect width="100" height="244" rx="30" fill="#171717"/><circle cx="50" cy="122" r="34" fill="#f5b800"/><path d="m32 122 12 12 24-28" fill="none" stroke="#171717" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/></g>
+  </g>
+  <g fill="#f5b800"><circle cx="213" cy="402" r="12"/><circle cx="432" cy="402" r="12"/><circle cx="651" cy="402" r="12"/><circle cx="870" cy="402" r="12"/></g>
+  <path d="m1062 380 24 22-24 22" fill="none" stroke="#f5b800" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
